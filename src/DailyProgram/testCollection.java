@@ -17,6 +17,8 @@ void test(){
 	System.out.println(AL);
 	Collections.sort(AL);
 	System.out.println(AL);
+	
+	//end of start menthod
 }
 public static void main(String []arg) {
 	testCollection t=new testCollection();
