@@ -8,6 +8,8 @@ import org.apache.commons.jxpath.ri.model.beans.CollectionPointerFactory;
 public class testCollection {
 	
 void test(){
+	
+	//start of method
 	ArrayList AL=new ArrayList();
 	AL.add("ABC");
 	AL.add("zyx");
